@@ -16,3 +16,4 @@
 2023-05-24 22:19:01.615549	3	Alap	in English	általános	London
 2023-05-24 22:20:39.838580	3	Alap	in English	általános	Paris
 2023-05-24 22:22:02.795629	3	Alap	in English	általános	Barcelona
+2023-05-24 20:24:46.524897	3	Alap	in English	általános	Strawberry
