@@ -14,3 +14,4 @@
 2023-05-24 17:59:09.175241	3	Alap	magyarul	általános	Teszt3
 2023-05-24 20:14:40.421079	3	Alap	in English	általános	Orange
 2023-05-24 22:19:01.615549	3	Alap	in English	általános	London
+2023-05-24 22:20:39.838580	3	Alap	in English	általános	Paris
