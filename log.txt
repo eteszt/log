@@ -11,3 +11,4 @@
 2023-05-24 19:11:05.149981	3	Alap	magyarul	általános	A kerékpár története
 2023-05-24 19:15:18.741816	3	Alap	magyarul	általános	A elektromos autók
 2023-05-24 17:50:19.847467	3	Alap	magyarul	általános	Hogyan készüljünk életünk első maratonjára?
+2023-05-24 17:58:00.917035	3	Alap	magyarul	általános	Teszt2
