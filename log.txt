@@ -18,3 +18,4 @@
 2023-05-24 22:22:02.795629	3	Alap	in English	általános	Barcelona
 2023-05-24 20:27:53.264380	3	Alap	in English	kisgyerekeknek	Blueberry
 2023-05-24 22:35:52.849156	3	Alap	in English	általános	One
+2023-05-24 22:37:39.255028	3	Alap	in English	általános	Two
