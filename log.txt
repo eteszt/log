@@ -8,4 +8,4 @@
 2023-05-24 14:37:51.544586	3	Alap	magyarul	általános	Spagetti western
 
 2023-05-24 19:05:34.709509	3	Alap	magyarul	általános	szilva
-2023-05-24 19:07:35.272649	3	Alap	magyarul	általános	Körte
+2023-05-24 19:11:05.149981	3	Alap	magyarul	általános	A kerékpár története
