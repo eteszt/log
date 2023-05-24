@@ -10,4 +10,4 @@
 2023-05-24 19:05:34.709509	3	Alap	magyarul	általános	szilva
 2023-05-24 19:11:05.149981	3	Alap	magyarul	általános	A kerékpár története
 2023-05-24 19:12:52.184914	3	Alap	magyarul	általános	A elektromos autók
-2023-05-24 17:14:20.412168	3	Alap	magyarul	általános	A Föld legmagasaab hegyei
+2023-05-24 17:14:25.217722	3	Alap	magyarul	általános	A Föld legmagasaab hegyei
