@@ -6,6 +6,7 @@
 2023-05-24 12:58:23.538815	3	Prémium	magyarul	kisgyerekeknek	Az internet
 2023-05-24 13:32:37.748017	3	Alap	magyarul	általános	A szabványos vasúti nyomtávok kialakulása
 2023-05-24 14:37:51.544586	3	Alap	magyarul	általános	Spagetti western
+
 2023-05-24 19:05:34.709509	3	Alap	magyarul	általános	szilva
 2023-05-24 19:11:05.149981	3	Alap	magyarul	általános	A kerékpár története
 2023-05-24 19:15:18.741816	3	Alap	magyarul	általános	A elektromos autók
@@ -15,4 +16,4 @@
 2023-05-24 22:19:01.615549	3	Alap	in English	általános	London
 2023-05-24 22:20:39.838580	3	Alap	in English	általános	Paris
 2023-05-24 22:22:02.795629	3	Alap	in English	általános	Barcelona
-2023-05-24 20:25:44.704250	3	Alap	in English	általános	Blueberry
+2023-05-24 20:27:53.264380	3	Alap	in English	kisgyerekeknek	Blueberry
